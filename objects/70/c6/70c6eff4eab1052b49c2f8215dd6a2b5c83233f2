@@ -1,0 +1,22 @@
+# Configuration file
+
+debug {
+    # Will output stuff to console for debugging purposes
+    B:enableDebugLogger=false
+}
+
+
+misc {
+    # Disable this if you want WAILA to handle the overlay instead.
+    B:enableMagnifyingGlassGUI=true
+}
+
+
+recipes {
+    B:enableCraftingUpgradeRecipe=true
+    B:enableEnderUpgradeRecipe=true
+    B:enableNametagRecipe=true
+    B:enableOreDictUpgradeRecipe=true
+}
+
+

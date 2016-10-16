@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "Dahs serbjorn supreme",
+      "name" : "Dahpack",
+      "version" : "2016-10-15-21-24-14",
+      "location" : "dahpack.json",
+      "priority" : 1
+    }
+  ]
+}

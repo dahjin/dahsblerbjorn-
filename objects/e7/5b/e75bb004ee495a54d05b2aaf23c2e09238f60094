@@ -1,0 +1,8 @@
+# Configuration file
+
+general {
+    # false to disable consumption of torches when burning cobwebs [default: true]
+    B:consumeTorches=true
+}
+
+

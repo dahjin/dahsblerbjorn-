@@ -1,0 +1,25 @@
+# Configuration file
+
+##########################################################################################################
+# general
+#--------------------------------------------------------------------------------------------------------#
+# Earth Life Mod Config
+#  Betkekk
+#  For Minecraft Version  1.10.2 
+##########################################################################################################
+
+general {
+    # Spawn Probability
+    # Set to zero to disable spawning of this entity
+    I:casuarSpawnProb=20
+    I:chimpanzeeSpawnProb=15
+    I:deerSpawnProb=15
+    I:flamingoSpawnProb=15
+    I:giraffeSpawnProb=15
+    I:hyraxSpawnProb=15
+    I:monitorSpawnProb=20
+    I:pandaSpawnProb=10
+    I:storkSpawnProb=15
+}
+
+
